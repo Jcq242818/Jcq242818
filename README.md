@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Ji Chenqing, a senior undergraduate student from department of Electronic and Electrical Engineering in SUSTech. Here, I hope to record all my experiences in the last semester year.
+#### I'm Ji Chenqing, a senior undergraduate student from department of Electronic and Electrical Engineering in SUSTech. Here, I hope to record all my experiences in the last semester year.
 
 - 🔭 I’m currently working on Anticancer drug detection research.
 - 🌱 I’m currently learning Software Defined Radio and C++.
