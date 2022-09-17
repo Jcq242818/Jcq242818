@@ -7,4 +7,4 @@
 - 💬 You can discuss with me about all the problems in the course CS305(Computer Networking).
 - 📫 How to reach me: 11911303@mail.sustech.edu.cn
 
-### I know that it is difficult to upload folders and code projects directly on Github, so I have another.md file in this repository that details common operations for using git to manage code uploads in VScode.
+### I know that it is difficult to upload folders and code projects directly on Github, so I have another .md file in this repository that details common operations for using git to manage code uploads in VScode.
