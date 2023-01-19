@@ -15,7 +15,8 @@
 ![image-20220918001151050](https://user-images.githubusercontent.com/113497191/190867132-90b19585-4dc1-46b6-ba1a-4dc9c18da7d6.png)
 
                                                              图.删除本地的远程库origin
-
+                                                             
+- **但是注意，如果先删除了本地的远程储存库origin，GitHub上与之绑定的仓库仍然存在，不会被一起删除。**
 - 删除了本地的远程库后，该代码工程就恢复到了移交到本地的代码仓库后准备生成本地和Github上的两个绑定的远程仓库上传到Github上的过程，我们重复上面的步骤即可重新发布一个新的Branch。
 
 ![image-20220918001338564](https://user-images.githubusercontent.com/113497191/190867143-84a4783d-1b3f-48c5-bd56-e1f53dc09bc0.png)
