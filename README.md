@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Ji Chenqing, a senior undergraduate student from department of Electronic and Electrical Engineering in SUSTech. At the end of this semester, I will continue to embark on my postgraduate life here. My research interest is related to many aspects of wireless networks, especially the Integration between sensing and communication (ISAC).
+### I'm Ji Chenqing, a senior undergraduate student from department of Electronic and Electrical Engineering in SUSTech. At the end of this semester, I will continue to embark on my postgraduate life here. My research interest is related to many aspects of wireless networks, especially the integration between sensing and communication (ISAC).
 
 - 👯 I’m looking to collaborate on mmwave integration sensing in communication.
 - 📫 How to reach me: 11911303@mail.sustech.edu.cn
