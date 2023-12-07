@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on channel modeling based on the physical layer which will assist many application layer tasks of ISAC (e.g. Localization, Tracking, and Imaging) in WiFi (2.4/5GHz, IEEE 802.11 b/g/n/ax) or mmWave (60GHz, IEEE 802.11 ad/ay).
 - 📫 How to reach me: 12332152@mail.sustech.edu.cn
 
-
+#### If you are also interested in these research directions, feel free to have a lively discussion with me!
