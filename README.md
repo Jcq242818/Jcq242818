@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on channel modeling based on the physical layer which will assist many application layer tasks of ISAC (e.g. Localization, Tracking, and Imaging) in WiFi (2.4/5GHz, IEEE 802.11 b/g/n/ax) or mmWave (60GHz, IEEE 802.11 ad/ay).
 - 📫 How to reach me: 12332152@mail.sustech.edu.cn
 
-#### I know that it is difficult to upload folders and code projects directly on GitHub, so I have another .md file in this repository that details common operations for using git to manage code uploads in VScode.
+
