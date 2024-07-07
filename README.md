@@ -3,6 +3,6 @@
 
 - 👯 I’m looking to collaborate on designing an ISAC system that uses the antenna array system to track the moving objects around us.
 - 📫 How to reach me: [12332152@mail.sustech.edu.cn](12332152@mail.sustech.edu.cn).
-- 👍My personal homepage is now open, the link is here [link](https://jcq242818.github.io). Welcome to visit and learn more about me!
+- 👍My personal homepage is now open, the link is here [Link](https://jcq242818.github.io). Welcome to visit and learn more about me!
 
 #### If you are also interested in these research directions, feel free to have a lively discussion with me.
