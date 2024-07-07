@@ -5,4 +5,4 @@
 - 📫 How to reach me: [12332152@mail.sustech.edu.cn](12332152@mail.sustech.edu.cn).
 - 👍My personal homepage is now open, the link is here [https://jcq242818.github.io](https://jcq242818.github.io). Welcome to visit and learn more about me!
 
-#### If you are also interested in these research directions, feel free to have a lively discussion with me!
+#### If you are also interested in these research directions, feel free to have a lively discussion with me.
