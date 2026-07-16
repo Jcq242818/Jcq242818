@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Ji Chenqing, a postgraduate student from the Department of Electronic and Electrical Engineering (EEE) in SUSTech. My research interest is related to many aspects of wireless network and mobile computing, especially **I**ntegrated **S**ensing **A**nd **C**ommunication (ISAC).
+#### I'm Ji Chenqing. I received the B.Eng. and M.Eng. degrees from the Department of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2023 and 2026, respectively. I am currently pursuing the Ph.D. degree with the School of Computer Science, Peking University, Beijing, China. My research interest lies in wireless sensing via communication signals (Wi-Fi, 4G/5G).
 
 - 👯 I’m looking to collaborate on designing an ISAC system that uses the antenna array system to track the moving objects around us.
 - 📫 How to reach me: [12332152@mail.sustech.edu.cn](12332152@mail.sustech.edu.cn).
